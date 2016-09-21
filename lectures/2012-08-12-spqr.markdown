@@ -1,0 +1,30 @@
+---
+title: S.P.Q.R.
+---
+
+This is a lecture.
+
+
+First, a bit of Haskell:
+
+```haskell
+incr :: Int -> Int
+incr x = x + 1
+```
+
+Next, a spot of C:
+
+```c
+int incr(int x){
+  return x + 1;
+}
+```
+
+and finally, some Python:
+
+```python
+def incr(x):
+  return x + 1;
+```
+
+That was some code. The variable `x` is an `Int`.
